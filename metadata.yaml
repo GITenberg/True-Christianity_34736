@@ -1,0 +1,63 @@
+_repo: True-Christianity_34736
+_version: 0.1.0
+alternative_title: Wahres Christentum. English
+contributor:
+  translator:
+    agent_name: Böhm, Anton Wilhelm
+    aliases:
+    - Boehme, Anton Wilhelm
+    - Boehm, Anthony William
+    - Bohm, Anton Wilhelm
+    - Boehme, Anthony William
+    - Böhme, Anton Wilhelm
+    - Bohme, Anton Wilhelm
+    - Boehm, Antony William
+    - Boemius, Antonius Wilhelmus
+    birthdate: 1673
+    deathdate: 1722
+    gutenberg_agent_id: '41079'
+    url: http://www.gutenberg.org/2009/agents/41079
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arndt, Johann
+    aliases:
+    - Arndt, John
+    - Arndt, Johan
+    - Arnd, Johann
+    birthdate: 1555
+    deathdate: 1621
+    gutenberg_agent_id: '37195'
+    url: http://www.gutenberg.org/2009/agents/37195
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Arndt
+  editor:
+    agent_name: Schaeffer, Charles Frederick
+    aliases:
+    - Schäffer, Karl Friedrich
+    - Schaeffer, C. F.
+    - Schäffer, Karl F.
+    - Schaffer, Karl F.
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '36620'
+    url: http://www.gutenberg.org/2009/agents/36620
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2010-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34736'
+  lccn: '12030368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcsh 'Christian life'
+- !lcc 'BV'
+title: "True Christianity\r\nA Treatise on Sincere Repentence, True Faith, the Holy\
+  \ Walk of the True Christian, Etc."
+url: http://www.gutenberg.org/ebooks/34736
